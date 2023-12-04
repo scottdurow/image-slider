@@ -1,0 +1,7 @@
+/* Reset the style applied by portals */
+.yarl__button:disabled
+{
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: unset;
+}
